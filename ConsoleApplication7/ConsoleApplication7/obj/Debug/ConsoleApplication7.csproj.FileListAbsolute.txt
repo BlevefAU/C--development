@@ -1,0 +1,6 @@
+D:\Project\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+D:\Project\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+D:\Project\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+D:\Project\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+D:\Project\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+D:\Project\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
